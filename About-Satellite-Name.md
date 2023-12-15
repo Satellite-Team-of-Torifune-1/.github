@@ -1,8 +1,8 @@
 # About Satellite Name | 关于卫星命名<br>
 
 ## After the initial call for names, we have collected many valuable, creative and meaningful names. <br>
-For example:
-<br>
+For example:<br>
+
 - Gensokyo-1
 - Torifun-1
 - Lunar Capital-1
@@ -29,7 +29,7 @@ In any case, we would like to thank all the friends who have suggested to us and
 
 ## 经过初期的命名征集，我们收集到了许多宝贵、富有创意与寓意的命名。<br>
 例如：<br>
-<br>
+
 - 幻想乡一号
 - 天鸟船一号
 - 月都一号
