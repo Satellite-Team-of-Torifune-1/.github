@@ -5,5 +5,5 @@ This repository is used to display descriptive documents and progress on the Tor
 <br>
 
 ## Directory | 目录<br>
-- [Brief introduction of the project team and project vison](https://github.com/Torifun-1/.github/blob/main/About-us.md)<br>
-- [项目组简介及项目愿景](https://github.com/Torifun-1/.github/blob/main/About-us.md)<br>
+- [Brief introduction of the project team and project vison](https://github.com/Satellite-Team-of-Torifune-1/.github/blob/main/About-us.md)<br>
+- [项目组简介及项目愿景](https://github.com/Satellite-Team-of-Torifune-1/.github/blob/main/About-us.md)<br>
