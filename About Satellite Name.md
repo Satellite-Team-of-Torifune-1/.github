@@ -1,6 +1,6 @@
 # About Satellite Name | 关于卫星命名<br>
 After the initial call for names, we have collected many valuable, creative and meaningful names. <br>
-For example<br>:
+For example:
 <br>
 - Gensokyo-1
 - Torifun-1
